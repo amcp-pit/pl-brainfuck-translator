@@ -1,0 +1,283 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input1.b output.txt > out.txt && cmp output.txt tests/output1.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input2.b output.txt > out.txt && cmp output.txt tests/output2.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 3",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input3.b output.txt > out.txt && cmp output.txt tests/output3.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 4",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input4.b output.txt > out.txt && cmp output.txt tests/output4.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 5",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input5.b output.txt > out.txt && cmp output.txt tests/output5.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 6",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input6.b output.txt > out.txt && cmp output.txt tests/output6.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 7",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input7.b output.txt > out.txt && cmp output.txt tests/output7.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 8",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input8.b output.txt > out.txt && cmp output.txt tests/output8.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 9",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input9.b output.txt > out.txt && cmp output.txt tests/output9.c && cmp out.txt tests/out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 10",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input10.b output.txt > out.txt && cmp output.txt tests/output10.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 11",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input11.b output.txt > out.txt && cmp output.txt tests/output11.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 12",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input12.b output.txt > out.txt && cmp output.txt tests/output12.c && cmp out.txt tests/out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 13",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input13.b output.txt > out.txt && cmp output.txt tests/output13.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 14",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input14.b output.txt > out.txt && cmp output.txt tests/output14.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 15",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input15.b output.txt > out.txt && cmp output.txt tests/output15.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 16",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input16.b output.txt > out.txt && cmp output.txt tests/output16.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 17",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input17.b output.txt > out.txt && cmp output.txt tests/output17.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 18",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input18.b output.txt > out.txt && cmp output.txt tests/output18.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 19",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input19.b output.txt > out.txt && cmp output.txt tests/output19.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 20",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input20.b output.txt > out.txt && cmp output.txt tests/output20.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 21",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input21.b output.txt > out.txt && cmp output.txt tests/output21.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 22",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input22.b output.txt > out.txt && cmp output.txt tests/output22.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 23",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input23.b output.txt > out.txt && cmp output.txt tests/output23.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 24",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input24.b output.txt > out.txt && cmp output.txt tests/output24.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 25",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input25.b output.txt > out.txt && cmp output.txt tests/output25.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 26",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input26.b output.txt > out.txt && cmp output.txt tests/output26.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 27",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input27.b output.txt > out.txt && cmp output.txt tests/output27.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 28",
+      "setup": "",
+      "run": "timeout 2 ./bf2c tests/input28.b output.txt > out.txt && cmp output.txt tests/output28.c",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    }  ]
+}

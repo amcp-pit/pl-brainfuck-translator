@@ -1,0 +1,2 @@
+putchar(*p);
+*p = getchar();
